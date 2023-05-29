@@ -65,6 +65,12 @@ Offline Direct (Age Group-wise)
 Similar to offline agents, the age group 31-40 secures the highest number of customers through offline direct methods, with 1,687 customers.
 The 65+ age group exhibits the lowest count.
 
+Power BI : https://app.powerbi.com/view?r=eyJrIjoiMjcyMGVkMzktOGVkNS00MDhhLWEyZDUtMjdmMmUyMjAwYzE0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+
+
+NovyPro : https://www.novypro.com/project/shield-insurance
+
+
 
 Dashboard  : 
 
